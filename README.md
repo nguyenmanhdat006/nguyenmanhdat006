@@ -40,61 +40,80 @@ currently_learning: [Kubernetes security, Detection engineering, Incident respon
 
 ### 🧰 Tech stack
 
-<table>
-  <tr>
-    <td width="190"><b>Cloud Native &amp; GitOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kubernetes-161b2e?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Docker-161b2e?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-      <img src="https://img.shields.io/badge/ArgoCD-161b2e?style=flat-square&logo=argo&logoColor=EF7B4D" alt="ArgoCD" />
-      <img src="https://img.shields.io/badge/HAProxy-161b2e?style=flat-square" alt="HAProxy" />
-      <img src="https://img.shields.io/badge/VMware-161b2e?style=flat-square&logo=vmware&logoColor=9fa9b8" alt="VMware" />
-    </td>
-  </tr>
-  <tr>
-    <td width="190"><b>CI/CD &amp; Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jenkins-161b2e?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-      <img src="https://img.shields.io/badge/GitLab-161b2e?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
-      <img src="https://img.shields.io/badge/Ansible-161b2e?style=flat-square&logo=ansible&logoColor=EE0000" alt="Ansible" />
-      <img src="https://img.shields.io/badge/Git-161b2e?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/Bash-161b2e?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-    </td>
-  </tr>
-  <tr>
-    <td width="190"><b>Security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Trivy-161b2e?style=flat-square&logo=aqua&logoColor=1904DA" alt="Trivy" />
-      <img src="https://img.shields.io/badge/SonarQube-161b2e?style=flat-square&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
-      <img src="https://img.shields.io/badge/Suricata-161b2e?style=flat-square" alt="Suricata" />
-      <img src="https://img.shields.io/badge/Burp_Suite-161b2e?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/sqlmap-161b2e?style=flat-square" alt="sqlmap" />
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-161b2e?style=flat-square" alt="MITRE ATT&CK" />
-    </td>
-  </tr>
-  <tr>
-    <td width="190"><b>Monitoring &amp; SIEM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Elasticsearch-161b2e?style=flat-square&logo=elasticsearch&logoColor=00BFB3" alt="Elasticsearch" />
-      <img src="https://img.shields.io/badge/Kibana-161b2e?style=flat-square&logo=kibana&logoColor=E8478B" alt="Kibana" />
-      <img src="https://img.shields.io/badge/Logstash-161b2e?style=flat-square&logo=logstash&logoColor=FEC514" alt="Logstash" />
-      <img src="https://img.shields.io/badge/Vector-161b2e?style=flat-square&logo=datadog&logoColor=28D9F2" alt="Vector" />
-      <img src="https://img.shields.io/badge/Filebeat-161b2e?style=flat-square&logo=elastic&logoColor=00BFB3" alt="Filebeat" />
-      <img src="https://img.shields.io/badge/Zabbix-161b2e?style=flat-square&logo=zabbix&logoColor=D40000" alt="Zabbix" />
-    </td>
-  </tr>
-  <tr>
-    <td width="190"><b>Database &amp; OS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-161b2e?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Patroni_+_etcd-161b2e?style=flat-square&logo=etcd&logoColor=419EDA" alt="Patroni + etcd" />
-      <img src="https://img.shields.io/badge/Linux-161b2e?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-      <img src="https://img.shields.io/badge/Ubuntu-161b2e?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Python-161b2e?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-161b2e?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-    </td>
-  </tr>
-</table>
+**🐳 Containers & Orchestration**
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**🔁 CI/CD & GitOps**
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+
+**⚙️ Automation**
+<p>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+**🔍 Security Scanning (SAST / SCA)**
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm_audit-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+**🛡️ Pentest & Threat Detection**
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlmap-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge" />
+</p>
+
+**📜 Logging & SIEM**
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-FEC514?style=for-the-badge&logo=logstash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vector-28D9F2?style=for-the-badge&logo=datadog&logoColor=black" />
+  <img src="https://img.shields.io/badge/Filebeat-00BFB3?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+**📈 Monitoring & Alerting**
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+**🌐 Networking & Virtualization**
+<p>
+  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
+
+**🗄️ Database**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Patroni-2B6CB0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white" />
+</p>
+
+**🐧 Operating Systems**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+**💻 Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
