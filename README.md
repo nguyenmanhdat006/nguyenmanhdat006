@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=nguyenmanhdat006&style=for-the-badge&color=1f883d&label=PROFILE+VIEWS" />
 </p>
 
+<p align="center">
+  <img src="./assets/devsecops-loop.svg" alt="DevSecOps loop" width="100%" />
+</p>
+
 ---
 
 ### 🛡️ About me
