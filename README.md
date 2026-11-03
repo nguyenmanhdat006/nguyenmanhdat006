@@ -34,16 +34,6 @@ currently_learning: [Kubernetes security, Detection engineering, Incident respon
 
 ---
 
-### 🔐 Pipeline I build
-
-```
- GitLab ──▶ Jenkins ──▶ SonarQube (SAST) ──▶ Trivy (image/deps) ──▶ 🚦 Security Gate ──▶ Registry ──▶ ArgoCD ──▶ Kubernetes
-                                                                     │                                              │
-                                                              block HIGH/CRITICAL                     Vector / Filebeat ──▶ Elastic ──▶ Alerts 📲
-```
-
----
-
 ### 🧰 Tech stack
 
 **☸️ Cloud Native & GitOps**
@@ -111,12 +101,7 @@ currently_learning: [Kubernetes security, Detection engineering, Incident respon
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyenmanhdat006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=nguyenmanhdat006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenmanhdat006&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&area=true&area_color=1f883d&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nguyenmanhdat006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </p>
 
 <!-- Snake animation: requires .github/workflows/snake.yml -->
