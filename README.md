@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:1f883d&height=200&section=header&text=Nguyen%20Manh%20Dat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevSecOps%20%E2%80%A2%20Security%20Monitoring%20%E2%80%A2%20GitOps&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f84f7,50:a68bd0,100:f27c50&height=200&section=header&text=Nguyen%20Manh%20Dat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevSecOps%20%E2%80%A2%20Security%20Monitoring%20%E2%80%A2%20GitOps&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=%24+shift-left+--security;%24+kubectl+apply+-f+gitops%2F;%24+trivy+image+--severity+HIGH%2CCRITICAL;%24+tail+-f+%2Fvar%2Flog+%7C+detect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=F27C50&center=true&vCenter=true&width=600&lines=%24+shift-left+--security;%24+kubectl+apply+-f+gitops%2F;%24+trivy+image+--severity+HIGH%2CCRITICAL;%24+tail+-f+%2Fvar%2Flog+%7C+detect" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://port-folio-bice-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:manhdatvbhp@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nguyenmanhdat006&style=for-the-badge&color=1f883d&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=nguyenmanhdat006&style=for-the-badge&color=a68bd0&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ currently_learning: [Kubernetes security, Detection engineering, Incident respon
 ### 📈 GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyenmanhdat006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+  <img src="https://streak-stats.demolab.com?user=nguyenmanhdat006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a68bd0&fire=f27c50&currStreakLabel=f27c50&sideNums=6f84f7" />
 </p>
 
 <!-- Snake animation: requires .github/workflows/snake.yml -->
@@ -122,4 +122,4 @@ currently_learning: [Kubernetes security, Detection engineering, Incident respon
   <i>"Security is not a stage in the pipeline — it is the pipeline."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f883d,50:0f3d2e,100:0d1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f27c50,50:a68bd0,100:6f84f7&height=110&section=footer" width="100%" />

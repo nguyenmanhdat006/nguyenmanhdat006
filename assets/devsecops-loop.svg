@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="360" viewBox="0 0 820 360" role="img" aria-label="DevSecOps loop: plan, code, build, test, release, deploy, operate, monitor">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="DevSecOps loop: plan, code, build, test, release, deploy, operate, monitor">
 <defs>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1d2338"/></pattern>
   <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="530" y2="0">
@@ -20,9 +20,9 @@
   .check{stroke-dasharray:40;animation:tick 2.6s ease-in-out infinite}
   @keyframes tick{0%,8%{stroke-dashoffset:40}22%,100%{stroke-dashoffset:0}}
 </style>
-<rect width="820" height="360" rx="18" fill="#0a0d16"/>
-<rect width="820" height="360" rx="18" fill="url(#dots)"/>
-<g transform="translate(110,30)">
+<rect width="820" height="300" rx="18" fill="#0a0d16"/>
+<rect width="820" height="300" rx="18" fill="url(#dots)"/>
+<g transform="translate(110,0)">
   <use href="#loop" xlink:href="#loop" fill="none" stroke="url(#g)" stroke-width="30" opacity=".22" filter="url(#blur)"/>
   <use href="#loop" xlink:href="#loop" fill="none" stroke="url(#g)" stroke-width="18" stroke-linejoin="round"/>
   <use href="#loop" xlink:href="#loop" class="lane" fill="none" stroke="#0b0f1c" stroke-width="3.2" stroke-linecap="round"/>
